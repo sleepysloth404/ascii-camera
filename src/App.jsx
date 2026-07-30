@@ -184,7 +184,7 @@ function App() {
             </div>
           </div>
           <a 
-            href="https://github.com/yourusername/ascii-camera" 
+            href="https://github.com/sushil825/ascii-camera" 
             target="_blank"
             rel="noopener noreferrer"
             className="github-link"
